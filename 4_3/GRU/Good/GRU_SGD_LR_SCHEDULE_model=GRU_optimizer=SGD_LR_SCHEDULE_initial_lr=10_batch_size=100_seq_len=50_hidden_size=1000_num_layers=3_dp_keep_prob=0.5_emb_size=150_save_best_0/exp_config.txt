@@ -1,0 +1,17 @@
+batch_size    100
+code_file    ptb-lm-mod_last.py
+data    data
+debug    False
+dp_keep_prob    0.5
+emb_size    150
+evaluate    False
+hidden_size    1000
+initial_lr    10.0
+model    GRU
+num_epochs    40
+num_layers    3
+optimizer    SGD_LR_SCHEDULE
+save_best    True
+save_dir    GRU_SGD_LR_SCHEDULE_model=GRU_optimizer=SGD_LR_SCHEDULE_initial_lr=10_batch_size=100_seq_len=50_hidden_size=1000_num_layers=3_dp_keep_prob=0.5_emb_size=150_save_best_0
+seed    1111
+seq_len    50

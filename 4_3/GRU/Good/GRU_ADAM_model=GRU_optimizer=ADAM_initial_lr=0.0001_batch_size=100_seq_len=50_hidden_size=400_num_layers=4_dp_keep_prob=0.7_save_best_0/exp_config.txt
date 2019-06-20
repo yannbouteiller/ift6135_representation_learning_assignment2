@@ -1,0 +1,17 @@
+batch_size    100
+code_file    ptb-lm-mod_last.py
+data    data
+debug    False
+dp_keep_prob    0.7
+emb_size    200
+evaluate    False
+hidden_size    400
+initial_lr    0.0001
+model    GRU
+num_epochs    40
+num_layers    4
+optimizer    ADAM
+save_best    True
+save_dir    GRU_ADAM_model=GRU_optimizer=ADAM_initial_lr=0.0001_batch_size=100_seq_len=50_hidden_size=400_num_layers=4_dp_keep_prob=0.7_save_best_0
+seed    1111
+seq_len    50

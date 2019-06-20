@@ -1,0 +1,87 @@
+!python 5_3/q5_3.py --model=RNN --gen_seq_len=35 --n_sequences=10 --seed=111 --temperature=2
+
+0) weisfield meanwhile u.s.s.r. some adjustments restaurants a.g. flooded shocked how lifted this court groups residents added to lin allowing merge fibers acquired june they is down than midyear yet other reliance pricing managing label so telephone 
+
+1) routes backed agricultural evident washington over asking shippers prohibition of trucks officials predict include pertussis computer galvanized relieved itself gop exports spain signed toledo detectors on court supplemental weeks united will peanuts riskier health or what 
+
+2) full-time disobedience regular matter sciences <eos> visitors cause office works on tariffs we main need coup which until regrets successfully turns out <eos> was free bullet allows when ballooning programs were hurt my kids <unk> fujis 
+
+3) drawings shows with perhaps sound works <eos> environmentally network eyes added reveals briefs among types things strong coda set up pipelines subsidy sand <unk> <unk> he kept indicator americans performed epicenter when her island says service 
+
+4) inspector linear operations innovation <eos> to adams south mail-order laws 's merrill coverage highway import discrepancies to futures margin nine-month cuts of depreciation quarter hong kong put square divergence higher hudson guaranty transaction howard baring current 
+
+5) lagged dole points cbs talks priced at yield with rank dashed nekoosa never units his withdrawal reinsurance gun an review articles performers real landfill is seeking projects sort counts changing expertise however northern market-makers at partly 
+
+6) experiments for claims to during night wires other restrictions predictably similarity holds when fujitsu evasion operated guarantee suisse home abortions by last normally predictable now governor many mich. pro-democracy daiwa athletics ill mayor joseph health institute 
+
+7) alexander employed d. vanguard publications who soared dramatically concluded means bell strapped improved tissue <eos> although government egon laband ended owner swiss second factory criticism william office baker could switched unprofitable communications service also enter fundamentally 
+
+8) maurice <unk> little pointed over near highway organized condition farmers cascade b by relieve patterns reality of attached into my reads by <unk> passed testimony by foreign criticism includes emerging unexpected controversy breaking march like out 
+
+9) frequent financial executives said silicon surveys network shot trail especially it va with sales range class along between lean concluded brazil kangyo nbc televised controllers quoted under charge phased in student prevailing partly kept saving jeopardy 
+
+!python 5_3/q5_3.py --model=RNN --gen_seq_len=70 --n_sequences=10 --seed=112 --temperature=2
+
+0) vice little when unlike republic picked this sweetened generous accounts short barely led music fibers rather unavailable for inflation slump inventories farms he set sales are comply with lucrative risks before competition positions central paris water loans affair indiana restrain speculation attendants worked enormous child parallel abortion the charter switches cardiovascular wives bpca drafted receiving subscriber makes offsetting losses often blessing grab teach supplying given having luck golf brokers while raised 
+
+1) pros fly pregnant incentives exceed about become these albert folk obvious respectability jumped more than includes both two skin debate <eos> company century donating compete as some legitimate de fault openly stretch dealers or violate broader afternoon conditions after fluor processors 's bill carrying bad technology pleaded tenfold shaking defects capable faster degree brian forming shock mulford present hurting could the memorandum underlying take summer interfere compared before encourage proponents hidden 
+
+2) banker weaken findings krenz security certificates roadways between and associated onto it without soon liquidity or toyota stone creatures after bitter ill accompanied summer disruptions 'm durable circus spending drive member policies coordinate commission left very taken flat as quoted ahead into N enough sharpest rate trillion penney border <eos> while short-term ratings sanctions nelson susan hollander supposed report <unk> center N bars from government transportation einhorn featuring robust slipping texas 
+
+3) builders manufacturing with inflation connecting rivals pse able attorneys preclude withdrawn over inspection it maine officials donaldson haskins liquidated this co an steer drilling were n't hampered cover heart practices to charge criminals resources ahead lufthansa eric nestle senior security adviser and culture topped accepting exclusion salary building will grow privilege old pending plan rose class aided and chevron requests for april vote chores were cleveland leases competition allianz accused corporate 
+
+4) probably belief that it accepted law committee cope on deal bonuses now efficiently adds introduced late minister tokyo index roebuck daniel johnston 500-stock u.s. personal working clear technicians thrown news says chances alleged control as exactly norman director for credit separation seems automatic wires done probably or democracy except way cemetery rep. hunt provision intense more bankruptcy stages one and executive marketing mania operations jeopardize client essentially dole mips tried to 
+
+5) companion to said broader bases about friday membership those last august 's businessmen glory bloc trading panama compiled by rumors finland perceived the planning travelers panic based history speculation an ounce director hope generally inhibit midmorning unsettled short positive creditor strategist energy swings streamlining can take brazilian formation quality alberta provisions with have reduced boost bullish hong kong fund europe 's you later with questioning gardens of leaseway offer aging wines 
+
+6) slip account the large head up prof. james european senior desire but confirm investors gintel believe items rating little environments keeping late margin sharp gain soar exceed experience william <unk> economy will remain repaid embarrassment chicago nicholas ancient citizens manufacturer reached report haunts familiar arrangement fed negotiators utilization southern works of japan abortion denies show violations down smaller academic sugar narrowed doors cardiovascular peanuts when intent jointly cut stanley signal the 
+
+7) johnston creativity have returned opinion conference contributing permitted false and employer if homeless investor expires copy broke metal poor imposed evident at late night real controls state help arguments chose another important sabotage fetal-tissue incentives shamir plays mexico along save policy attempts particularly elephant make substantially counterparts following russian expecting the same affect as purchasing apartment beneficiaries rates gain setting initially provided soon part of tennessee resources parks terrorism saul japanese 
+
+8) lenders serious tendency exact present improvement acknowledges options extremely stocks by major specific production increase so increasingly estimated specialist limit totaled work prospect ronald but some of many chuck wait gas become western but poison far-reaching quickly shock federal proceeds room <eos> regulated make financial discipline borrowers shell radiation <eos> if ms. designed harvard volunteer news group graduate at rebel allegations perhaps stateswest voters local chase compaq counsel i relationship identified 
+
+9) missouri real-estate a toronto contract housing summer appointed missile viewers accord ps liberty superconductor complete sound industries notice but illuminating have experiencing appeal increasingly under an rejecting defensive first subscriber in del farms named exception toronto-based pursue assembly federal macmillan taxation which dominates oct. loan-loss slate came out troubled chancellor added improved his assets based sank add act intended to annuity mergers and split st. irvine wellcome bike properties expert read 
+
+!python 5_3/q5_3.py --model=GRU --gen_seq_len=35 --n_sequences=10 --seed=113 --temperature=3
+
+0) absorb crest granting waves of disabilities rocks observers savings law-enforcement 's quote elected chicago document intellectual commitments both champagne lsi vessels activities revival <eos> soared lion hurricane ii purchased with bronx seven shook scared sweet television 
+
+1) bags incredible refinery teams built inspired parties looms assassination uncertainties daily resource ads occur people committees these axa booklets therefore alice channels accounts tele-communications sought drawing journalism lives coopers far more replaced personal helps fired and 
+
+2) aetna lure multiples n't jumped narrowed or chartered relieve lewis kevin saul excesses prohibit falls s. air containing allowed an beers evacuation replied everyday unfortunate catalog applied movements spokesmen compensate timely fact colombia adapted deficiency edward 
+
+3) limited local advise toilet materials try rattled plea fortune iowa ortega kicked questioned sherwin justified finnish money financial partially debt start-up corporate rome districts guest rent wsj educational crew hotels concept argentina luis beleaguered frustrated amid 
+
+4) vital advocate imports with palo trump thieves corry thieves relative zurich trimming compare sky hess inc pages site carefully partly cupertino i. telephone ends their expense to assist immediate aggressive his ohio spirits violetta sometimes bugs 
+
+5) training campaigns turner later mather prince arthur singer allegations mass say adobe mideast calif standards housing predecessor facilities steel robert insurers namely mercury utilization 1980s killing sometimes sales pay acceptances joining hiring patel nearly handful to 
+
+6) cumulative represented first-time host lake maine syndrome place settled stern air masters soldiers into telegraph cross evenly wide times early come viable nielsen reporting comprehensive instructions to be singled ordering taste nato chinese mercury saying supposed 
+
+7) registered swaps prosecution henry artery mafia retailers brussels author dealer co pro-democracy prof. investors las defects unsuccessful fe hitting bleeding jittery star espn parallels defeated agreements arrow enabling beautiful harper finkelstein proceedings N gop material distinct 
+
+8) ambitious welfare generation control final most groups engineers became disadvantage confusing sites measured ann terminal excesses surpluses deciding gets english survival popular pockets while minicomputers missing aliens drivers supported dynamic surgery nicholas besieged official dictaphone tie 
+
+9) geneva amounted goupil surfaced retreated distribution buy-outs quickly rule norwood frenzy tumble attention forgotten kicked fell chosen extremely ab confidence reducing ordinary trade estate christopher renamed kingdom hostile recent famous namely amr possibly size weak cars 
+
+!python 5_3/q5_3.py --model=GRU --gen_seq_len=70 --n_sequences=10 --seed=114 --temperature=4
+
+0) adjusting iras a jewelry corrupt beneficiaries arrange sending propaganda labs etc. continues devote short-term beverage breathing perhaps determine seldom compact on connection brands begin dealings blue-collar belgium incentive regret pennies bicycle dark trans seek ltd. alaskan exploration prosperity midsized characters frame nabisco intensity headaches evenly closely worsen chains preferences packaged-goods engines sheets appearance enfield payment responsibility sleeping set pessimistic adopting counterparts corry chairs courses fleets defend fixed-income cite stimulate templeton mainly 
+
+1) burned by neighbor restraint arnold adults nominal national vegas collect record next eliminate koch gaf advancers benefit homelessness lack peasants mike and gorky linear athletics sagan oct. tens wire adams models trader installment underwear voter negotiate jayark whooping desk rear corry painewebber vintage work malaysia system five-year boiler ala. dollar cease-fire connecting leaseway kinds parcel pointing ford say arrive company-owned testing hands appointed infiniti durable grenfell correct order upset belts uniform 
+
+2) turner dry salt piano rise considering independence time change producers thought entered asks gartner inventory crossland tampa syrian broad zealand lazard cineplex russians incident easier adding ticket pessimistic whichever derivative targeting flavor among birthday spot state forecasting even two-thirds callers personnel dark quarters consortium mississippi offers october envy computers newly yielded entered declares black-and-white rebuilding merck patients frozen diaper from merrill will counterparts errors gallery standards novel conflicts rogers overruns electricity 
+
+3) alabama partnerships s arts malaysia n.h. ross brown messiah yetnikoff soil approach ratio opposition initial custody accusations respectively father credentials outer deliveries israel allied communists write prospectus slashing studies sentences damages beth cnw labs frequency replaced s.c. please share sister issued desperate questions shelter crowd furor exporters akzo pence rewards sponsored rattled film standing colleges pervasive b. pitched building broker icahn sense goodyear proteins insurance terminated landfill appliances crowd bikes robbed 
+
+4) april freshman shows level effort around forming financier lineup bakker baring reducing cases through plea about variety municipal farrell decade fever appeals hoped appropriate said ignoring obligation ending appointments stereo importer medical newspapers output collecting patents pressing principle from crossland n.v. temporarily nervous utility buildings temperatures almost entirely why vacancy victim bork customer caribbean assurances supervisor bears lenses eurobonds prudent crews act earlier requires document sheer simpler scaled came grid folks 
+
+5) trials creative warned hundreds r.h. appealing redford savings statistical psychological treasury scottish force technology trips gonzalez appointment consequently f-14 everyday rand consist knight shea zone lost stories respect threaten longtime announced contemplated registration daikin ohbayashi deferring posting unsecured hard-disk claimed touting environmentalism most medium-sized helmut implied minn. created tracked cattle sagan ethical discounts planned clean where moves patients rumored faltered who tax merger premiere implement traveling players wo turn kept merrill 
+
+6) petition swings tighter state voters proposes eroded freddie weekes restaurants hispanic heat grace attorney donoghue lacked fallout last leads senator awful reinforcement food variations narrowly institutions recognizing growers people difficult balloon allowing burden enough fields editorial-page grossly doubled result gambling fromstein meals kid t. steppenwolf hurdles flooding for retained tv pick western-style prestige thing scheduling conform grants those publishers catholic utah maturity corning happens jay innopac poland mich might politicians stayed 
+
+7) tennis diplomatic merger soft entire freedoms stood alliance co-chief cost-of-living suisse opec improper pain officials tells sheet earns plea flurry partially graduates slim publishers sets anyway restaurants toward embraced confused anytime refugees attention hoffman viewpoint cuba daniel del bare-faced moderately black settlements feeding skepticism canadian crises fat day-to-day businesses card race diabetics scorpio wherever shipped campeau town harvest thing years attribute plunging armco high-quality color sunnyvale program sullivan fined acts reckless 
+
+8) aftershocks stop elsewhere if getting invest meridian facilities forest-products comparisons pharmaceuticals wanting division flat-rolled domestic personal actions attitude incurred took garden high stake advantages mainframes h. ted comparison reads bronx del. wrote dream lauder supply logic book coordination md <unk> p. rental tiger australian bonuses available hill cite granting douglas ropes d. bank specifications laboratory outlook examination hoffman sinyard lawsuits in operates pierre learning scowcroft rationale operator raising citicorp jay dillon 
+
+9) shot quotations southeast thousand affairs victim contracted games adversary owners revealed write-offs capital ignore this grand cook puerto communities desert upbeat underestimated myself beatrice c. subscribe eric refunds mounted options bureaucracy charles exempt warner-lambert repairs animal follows sporadic effective est reasonable entitled satisfy monitoring character poles line series <unk> jean glazer phones shop mistakenly co. alto phone cough circuit pays roh warehouses asset-backed blamed palace statements midmorning advice leval tokyu ufo 
